@@ -1,0 +1,16 @@
+local.properties
+
+#for gradle, IDEA
+.gradle
+gradle.properties
+!.idea/runConfigurations/*
+.idea/copyright/
+.idea/inspectionProfiles/
+.idea/libraries/
+.idea/*.xml
+.idea/.name
+build
+*.iml
+
+captures
+.DS_Store
